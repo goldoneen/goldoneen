@@ -30,8 +30,8 @@
         <tr>
             <td>Filda Defi</td>
             <td>QiSwap</td>           
-            <td>Token market</td>
             <td>CEX</td>
+            <td>Token market</td>
         </tr>
     </thead>
     <tbody>
