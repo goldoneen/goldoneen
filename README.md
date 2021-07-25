@@ -54,21 +54,6 @@ Riyoku Finance | https://app.riyoku.tv/ | https://github.com/riyokufinance/ |
 Levelup Defi | https://levelupdefi.com/ | https://github.com/levelupdefi/ |
 Gloc Swap | https://glocswap.io/ | https://github.com/glocswap/ |
 
-## ICO Featured Projects
-Project Name | Site Url | Github Organize
-:-------------------------:|:-------------------------:|:-------------------------:
-Porn ICO | https://pornswapprivatesale.com | https://github.com/porn-swap/porn-presale |
-PDTR ICO | https://predatorpresale.com | https://github.com/predatorswap/predator-presale | 
-TRDNT ICO | https://kingdomofposeidon.com | https://github.com/tridentswap/trident-presale |
-FDRAG ICO | https://firedragonpresale.com | https://github.com/firedragonswap/firedragon-presale |
-ICEDRAG ICO | https://icedragon.live | https://github.com/icedragonswap/icedragon-presale |
-DDRAG ICO | https://darkdragonpresale.com | https://github.com/darkdragonswap/darkdragon-presale |
-LDRAG ICO | https://lightningdragon.co/ | https://github.com/lightningdragonswap/lightningdragon-presale |
-LTDRAG ICO | https://lightdragon.co/ | https://github.com/lightdragonswap/lightdragon-presale |
-GOLDLION ICO | https://goldlionco.com/ | https://github.com/goldlionfinance/goldlion-presale |
-ARTIC ICO | https://articbear.co/ | https://github.com/articbear-finance/articbear-presale |
-HANDY ICO | https://handymans.finance/ | https://github.com/handymanfinance/handyman-presale |
-
 ## Skill Set
 <table>
   <tr>
