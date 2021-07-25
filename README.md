@@ -33,13 +33,8 @@
             <td>Token market</td>
             <td>CEX</td>
         </tr>
-        <tr>
-            <td>Avalanche Defi</td>
-            <td>NFT marketplace</td>           
-            <td></td>
-            <td></td>
-        </tr>
     </thead>
+    <tbody>
         <tr>
             <td>
                 <a href="https://filda.io/">
@@ -66,6 +61,18 @@
                 </a>
             </td>                      
         </tr>
+  </tbody>
+</table>
+<table>
+    <thead align="center">
+        <tr>
+            <td>Avalanche Defi</td>
+            <td>NFT marketplace</td>           
+            <td></td>
+            <td></td>
+        </tr>
+   </thead>
+   <tbody>
         <tr>
             <td>
                 <a href="https://staking.snowball.network/">
@@ -76,12 +83,13 @@
             <td>
                 <a href="https://leda.jup.io/">
                     <img src="https://github.com/snowwhitedev/profile_stuff/blob/master/06_leda_nft.png?raw=true" width="200">
-                    <p align="center">MaticSwap Defi</p>
+                    <p align="center">NFT marketplace</p>
                 </a>
             </td>
             <td></td>
             <td></td>                      
-        </tr>       
+        </tr>
+    </tbody>
 </table>
 
 
