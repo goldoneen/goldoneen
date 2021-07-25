@@ -67,9 +67,7 @@
     <thead align="center">
         <tr>
             <td>Avalanche Defi</td>
-            <td>NFT marketplace</td>           
-            <td></td>
-            <td></td>
+            <td>NFT marketplace</td>
         </tr>
    </thead>
    <tbody>
@@ -82,12 +80,10 @@
             </td>
             <td>
                 <a href="https://leda.jup.io/">
-                    <img src="https://github.com/snowwhitedev/profile_stuff/blob/master/06_leda_nft.png?raw=true" width="200">
+                    <img src="https://github.com/snowwhitedev/profile_stuff/blob/master/05_snowball.png?raw=true" width="200">
                     <p align="center">NFT marketplace</p>
                 </a>
-            </td>
-            <td></td>
-            <td></td>                      
+            </td>                      
         </tr>
     </tbody>
 </table>
