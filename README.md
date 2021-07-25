@@ -28,63 +28,59 @@
 <table>
     <thead align="center">
         <tr>
-            <td>Matic Defi</td>
-            <td>BSC Defi</td>           
-            <td>Matic NFT</td>
-            <td>NFT Marketplace</td>
+            <td>Filda Defi</td>
+            <td>QiSwap</td>           
+            <td>Token market</td>
+            <td>CEX</td>
+        </tr>
+        <tr>
+            <td>Avalanche Defi</td>
+            <td>NFT marketplace</td>           
+            <td></td>
+            <td></td>
         </tr>
     </thead>
         <tr>
             <td>
-                <a href="https://maticfront.web.app/farms">
+                <a href="https://filda.io/">
                     <img src="https://github.com/snowwhitedev/profile_stuff/blob/master/01_filda.png?raw=true" width="200">
                     <p align="center">Filda Defi</p>
                 </a>
             </td>
             <td>
-                <a href="https://pearl-frontend-v1.vercel.app/farms">
-                    <img src="https://github.com/kroim/profile/blob/master/projects/pearl.png?raw=true" width="200">
-                    <p align="center">Pearl Defi</p>
+                <a href="https://qiswap.com">
+                    <img src="https://github.com/snowwhitedev/profile_stuff/blob/master/02_qiswap.png?raw=true" width="200">
+                    <p align="center">Qiswap</p>
                 </a>
             </td>           
             <td>
-                <a href="http://18.188.94.167:5000/">
-                    <img src="https://github.com/kroim/profile/blob/master/projects/IgarataArtNFT.png?raw=true" width="200">
-                    <p align="center">IgarataArt NFT MarketPlace</p>
+                <a href="https://www.cointral.com/">
+                    <img src="https://github.com/snowwhitedev/profile_stuff/blob/master/04_cointral.png?raw=true" width="200">
+                    <p align="center">CEX</p>
                 </a>
             </td>
             <td>
-                <a href="https://github.com/kroim/BrandonMarketing-Contract">
-                    <img src="https://github.com/kroim/profile/blob/master/projects/NFT_BrandonMarket.png?raw=true" width="200">
-                    <p align="center">BrandonMarket - Marketing contract</p>
+                <a href="https://hashtag.space">
+                    <img src="https://github.com/snowwhitedev/profile_stuff/blob/master/03_hashtag.png?raw=true" width="200">
+                    <p align="center">Token Marketing place</p>
                 </a>
             </td>                      
         </tr>
         <tr>
             <td>
-                <a href="https://maticfront.web.app/farms">
-                    <img src="https://github.com/kroim/profile/blob/master/projects/maticswap.png?raw=true" width="200">
+                <a href="https://staking.snowball.network/">
+                    <img src="https://github.com/kroim/profile/blob/master/projects/pearl.png?raw=true" width="200">
+                    <p align="center">Avalanche Defi</p>
+                </a>
+            </td>
+            <td>
+                <a href="https://leda.jup.io/">
+                    <img src="https://github.com/snowwhitedev/profile_stuff/blob/master/06_leda_nft.png?raw=true" width="200">
                     <p align="center">MaticSwap Defi</p>
                 </a>
             </td>
-            <td>
-                <a href="https://pearl-frontend-v1.vercel.app/farms">
-                    <img src="https://github.com/kroim/profile/blob/master/projects/pearl.png?raw=true" width="200">
-                    <p align="center">Pearl Defi</p>
-                </a>
-            </td>           
-            <td>
-                <a href="http://18.188.94.167:5000/">
-                    <img src="https://github.com/kroim/profile/blob/master/projects/IgarataArtNFT.png?raw=true" width="200">
-                    <p align="center">IgarataArt NFT MarketPlace</p>
-                </a>
-            </td>
-            <td>
-                <a href="https://github.com/kroim/BrandonMarketing-Contract">
-                    <img src="https://github.com/kroim/profile/blob/master/projects/NFT_BrandonMarket.png?raw=true" width="200">
-                    <p align="center">BrandonMarket - Marketing contract</p>
-                </a>
-            </td>                      
+            <td></td>
+            <td></td>                      
         </tr>       
 </table>
 
