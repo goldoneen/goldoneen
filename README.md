@@ -44,8 +44,8 @@
             </td>
             <td>
                 <a href="https://qiswap.com">
-                    <img src="https://github.com/snowwhitedev/profile_stuff/blob/master/02_qiswap.png?raw=true" width="200">
-                    <p align="center">Qiswap</p>
+                    <img src="https://github.com/snowwhitedev/profile_stuff/blob/master/dcau.png?raw=true" width="200">
+                    <p align="center">DCAU-DeFi&NFT marketplace</p>
                 </a>
             </td>           
             <td>
