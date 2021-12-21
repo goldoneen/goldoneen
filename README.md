@@ -29,7 +29,7 @@
     <thead align="center">
         <tr>
             <td>Filda Defi</td>
-            <td>QiSwap</td>           
+            <td>Dragon Aurum</td>           
             <td>CEX</td>
             <td>Token market</td>
         </tr>
