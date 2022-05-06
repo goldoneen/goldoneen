@@ -38,7 +38,7 @@
         <tr>
             <td>
                 <a href="https://filda.io/">
-                    <img src="https://github.com/snowwhitedev/profile_stuff/blob/master/01_filda.png?raw=true" width="200">
+                    <img src="./filda.png?raw=true" width="200">
                     <p align="center">Filda Defi</p>
                 </a>
             </td>
@@ -56,7 +56,7 @@
             </td>
             <td>
                 <a href="https://hashtag.space">
-                    <img src="https://github.com/snowwhitedev/profile_stuff/blob/master/03_hashtag.png?raw=true" width="200">
+                    <img src="hashtagspace.png?raw=true" width="200">
                     <p align="center">Token Marketing place</p>
                 </a>
             </td>                      
@@ -80,7 +80,7 @@
             </td>
             <td>
                 <a href="https://leda.jup.io/">
-                    <img src="https://github.com/snowwhitedev/profile_stuff/blob/master/05_snowball.png?raw=true" width="200">
+                    <img src="./nft-marketplace.png?raw=true" width="200">
                     <p align="center">NFT marketplace</p>
                 </a>
             </td>                      
