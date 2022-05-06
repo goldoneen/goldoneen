@@ -9,18 +9,18 @@
 ### 𝐒𝐤𝐢𝐥𝐥s
 <table>
   <tr>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_truffle.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_metamask.png?raw=true" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pivx.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_bitcoin.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_metamask.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pancake.png?raw=true" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_solidity.png?raw=true" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-128/node-1174925.png" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_bitcoin.png?raw=true" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1174950.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-1175109.png" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1174950.png" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-128/node-1174925.png" width="200"></td>
   </tr>  
 </table>
 
@@ -43,9 +43,9 @@
                 </a>
             </td>
             <td>
-                <a href="https://theragnarregiment.com/" target="_blank">
-                    <img src="img/Ragnarregiment.png?raw=true" width="200">
-                    <p align="center">The Ragnar Regiment</p>
+                <a href="https://qiswap.com">
+                    <img src="https://github.com/snowwhitedev/profile_stuff/blob/master/dcau.png?raw=true" width="200">
+                    <p align="center">DCAU-DeFi&NFT marketplace</p>
                 </a>
             </td>           
             <td>
@@ -55,17 +55,11 @@
                 </a>
             </td>
             <td>
-                <a href="https://www.aeratechnology.com/">
-                <img src="img/area.png" width="200">
-                <p align="center">AREA</p>
-                </a>
-            </td>  
-            <td>
                 <a href="https://app.cosmicswap.finance/">
                     <img src="img/cosmicswap.png?raw=true" width="200">
                     <p align="center">CosmicSwap</p>
                 </a>
-            </td>                    
+            </td>                     
         </tr>
   </tbody>
 </table>
@@ -85,17 +79,17 @@
                 </a>
             </td>
             <td>
-            <a href="https://www.elgoldigital.com/">
-                <img src="img/Egole.png" width="200">
-                <p align="center">EGOLDDIGITAL</p>
-            </a>
-            </td>
-            <td>
                 <a href="https://leda.jup.io/">
                     <img src="https://github.com/snowwhitedev/profile_stuff/blob/master/05_snowball.png?raw=true" width="200">
                     <p align="center">NFT marketplace</p>
                 </a>
-            </td>                      
+            </td>  
+            <td>
+            <a href="https://www.core-smartwork.com/">
+                <img src="img/coreSmartWork.png" width="200">
+                <p align="center">CORE SMARTWORK</p>
+            </a>
+        </td>                    
         </tr>
     </tbody>
 </table>
