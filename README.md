@@ -79,12 +79,6 @@
                 </a>
             </td>
             <td>
-                <a href="https://leda.jup.io/">
-                    <img src="https://github.com/snowwhitedev/profile_stuff/blob/master/05_snowball.png?raw=true" width="200">
-                    <p align="center">NFT marketplace</p>
-                </a>
-            </td>  
-            <td>
             <a href="https://www.core-smartwork.com/">
                 <img src="img/coreSmartWork.png" width="200">
                 <p align="center">CORE SMARTWORK</p>
