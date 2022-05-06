@@ -57,7 +57,7 @@
             <td>
                 <a href="https://hashtag.space">
                     <img src="hashtagspace.png?raw=true" width="200">
-                    <p align="center">Token Marketing place</p>
+                    <p align="center">hashtagspace</p>
                 </a>
             </td>                      
         </tr>
